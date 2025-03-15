@@ -1,2 +1,5 @@
 # super_recorder
-super useful recorder using openCV
+
+1. 프로그램을 실행할 때 파일의 저장명을 입력하세요.
+2. spacebar키를 눌러 녹화모드를 활성화하세요.
+3. r키를 눌러 셀카모드를 활성화하세요.
